@@ -1,4 +1,10 @@
 # hello-world
 Repository for my own project
 hi universe
-hi everyone
+hi sky
+hi sun
+hi animals
+hi plants
+hi mountain
+hi human
+
