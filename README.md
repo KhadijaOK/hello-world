@@ -7,3 +7,4 @@ hi animals
 hi plants
 hi mountain
 hi human
+hi sun
